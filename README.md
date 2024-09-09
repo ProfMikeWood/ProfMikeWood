@@ -6,8 +6,13 @@ I am constantly learning, improving, and looking to share new code with anyone l
 
 ## Jupyter Books
 
+### Ocean Books:
 - [Ocean Modeling](https://profmikewood.github.io/ocean_modeling_book/intro.html) ([Repository](https://github.com/ProfMikeWood/ocean_modeling_book))
 - [Ocean Remote Sensing](https://profmikewood.github.io/ocean_remote_sensing_book/intro.html) ([Repository](https://github.com/ProfMikeWood/ocean_remote_sensing_book))
+
+### Programming Books
+- [Introduction to Python](https://profmikewood.github.io/intro_to_python/intro.html) ([Repository](https://github.com/ProfMikeWood/intro_to_python))
+
 
 
 
