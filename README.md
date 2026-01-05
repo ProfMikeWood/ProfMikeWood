@@ -13,7 +13,7 @@ I am constantly learning, improving, and looking to share new code with anyone l
 - [Introduction to Python](https://profmikewood.github.io/intro_to_python/intro.html) ([Repository](https://github.com/ProfMikeWood/intro_to_python))
 
 ### Data Science
-- [Machine Learning](https://profmikewood.github.io/machine_learning_book/intro.html) ([Repository](https://github.com/ProfMikeWood/machine_learning_book))
+- [Machine Learning](https://profmikewood.github.io/machine_learning_book/) ([Repository](https://github.com/ProfMikeWood/machine_learning_book))
 
 
 
